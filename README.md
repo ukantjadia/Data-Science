@@ -3,4 +3,3 @@
 - [template-EDA](/Template-EDA.ipynb): Detailed Implementation for EDA Project.
 - [Template-EDA](/Template-EDA.ipynb): Detailed Implementation for EDA Project.
 - [Template-ML-Modal](/Template-ML-Model.ipynb): Detailed Implementation for EDA Project.
-- 
